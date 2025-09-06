@@ -1,0 +1,6 @@
+{
+  "test_login": "passed",
+  "test_register": "failed",
+  "test_api_status": "skipped",
+  "test_turbine_output": "passed"
+}

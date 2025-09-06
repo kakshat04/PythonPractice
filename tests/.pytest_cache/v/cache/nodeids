@@ -1,0 +1,22 @@
+[
+  "test_circle.py::TestCircle::test_area",
+  "test_circle.py::TestCircle::test_perimeter",
+  "test_my_function.py::test_divide_divide_by_zero",
+  "test_rectangle.py::TestRectangle::test_area",
+  "test_rectangle.py::TestRectangle::test_perimited",
+  "test_rectangle_without_class.py::test_area",
+  "test_rectangle_without_class.py::test_perimited",
+  "test_square.py::test_circle[2-4]",
+  "test_square.py::test_circle[3-9]",
+  "test_square.py::test_circle[4-16]",
+  "test_square.py::test_circle[5-25]",
+  "test_square.py::test_perimeter[2-6]",
+  "test_square.py::test_perimeter[2-8]",
+  "test_square.py::test_perimeter[3-12]",
+  "test_square.py::test_perimeter[3-8]",
+  "test_square.py::test_perimeter[4-10]",
+  "test_square.py::test_perimeter[4-16]",
+  "test_square.py::test_perimeter[5-12]",
+  "test_square.py::test_perimeter[5-20]",
+  "test_square.py::test_perimeter[5-24]"
+]

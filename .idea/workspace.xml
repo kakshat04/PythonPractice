@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cec5470b-c1b4-4d18-9e06-575df5eb9072" name="Changes" comment="Test">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2zLecx9GhZzJsXH6Qq7ovnOpMju" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for TestPyTestValidation.Test_Check.executor": "Run",
+    "Python tests.Python tests for TestPyTestValidation.test_initial_check.executor": "Run",
+    "Python tests.Python tests for TestPyTestValidation.test_initialcheck.executor": "Run",
+    "Python tests.Python tests for TestPyTestValidation.test_secondcheck.executor": "Run",
+    "Python tests.Python tests for test_PyTestValidation.Test_Check.executor": "Run",
+    "Python tests.Python tests for test_PyTestValidation.Test_Check.test_check.executor": "Run",
+    "Python tests.Python tests for test_my_function.test_divide_divide_by_zero.executor": "Run",
+    "Python tests.Python tests for test_playwrightBasics.test_FirefoxBrowser.executor": "Run",
+    "Python tests.Python tests for test_playwrightBasics.test_browser_launch.executor": "Run",
+    "Python tests.Python tests for test_playwrightBasics.test_core_locators.executor": "Run",
+    "Python tests.Python tests for test_playwrightBasics.test_launch_browser_shortcut.executor": "Run",
+    "Python tests.Python tests for test_rectangle.TestRectangle.executor": "Run",
+    "Python tests.Python tests for test_rectangle.TestRectangle.test_area.executor": "Run",
+    "Python tests.Python tests for test_rectangle.TestRectangle.test_perimited.executor": "Run",
+    "Python tests.Python tests for test_rectangle_without_class.test_area.executor": "Run",
+    "Python tests.Python tests for test_rectangle_without_class.test_perimited.executor": "Run",
+    "Python tests.Python tests in Test2PyTestValidation.py.executor": "Run",
+    "Python tests.Python tests in TestPyTestValidation.py.executor": "Run",
+    "Python tests.Python tests in UdemyPlaywright.executor": "Run",
+    "Python tests.Python tests in Udemy_Playwright.executor": "Run",
+    "Python tests.Python tests in methods.py.executor": "Run",
+    "Python tests.Python tests in run_tests.py.executor": "Run",
+    "Python tests.Python tests in test_method.py.executor": "Run",
+    "Python.Basic.executor": "Run",
+    "Python.Chatgpt_questions.executor": "Run",
+    "Python.Decorattors.executor": "Run",
+    "Python.FakeApiTest.executor": "Run",
+    "Python.File1.executor": "Run",
+    "Python.Flaky_Test_Decorator.executor": "Run",
+    "Python.Generattors.executor": "Run",
+    "Python.IterGenDec.executor": "Run",
+    "Python.Iterators.executor": "Run",
+    "Python.OOPS_Inheritance.executor": "Run",
+    "Python.OOPS_classes.executor": "Run",
+    "Python.OOPS_polymorphism.executor": "Run",
+    "Python.RE.executor": "Run",
+    "Python.REST_API_Test.executor": "Run",
+    "Python.RegEx_Scrubber.executor": "Run",
+    "Python.RegularEx.executor": "Run",
+    "Python.Sensor_data_validator.executor": "Run",
+    "Python.Serializattion.executor": "Run",
+    "Python.Test_Report_Summarizer.executor": "Run",
+    "Python.abstr.executor": "Run",
+    "Python.auth_post.executor": "Run",
+    "Python.chatgpt_programs.executor": "Run",
+    "Python.check_method.executor": "Run",
+    "Python.example_1.executor": "Run",
+    "Python.file2.executor": "Run",
+    "Python.inher.executor": "Run",
+    "Python.interf.executor": "Run",
+    "Python.log_file_analyser.executor": "Run",
+    "Python.methods.executor": "Run",
+    "Python.oops.executor": "Run",
+    "Python.openai_utils.executor": "Run",
+    "Python.polymor.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.run_tests.executor": "Run",
+    "Python.shapes.executor": "Run",
+    "Python.test1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KAkshat\PycharmProjects\PythonProject\LandRover_Interview_Practice\Python_Testing" />
+      <recent name="C:\Users\KAkshat\PycharmProjects\PythonProject\UdemyPlaywright\pytest_directory" />
+      <recent name="C:\Users\KAkshat\PycharmProjects\PythonProject\UdemyPlaywright" />
+      <recent name="C:\Users\KAkshat\PycharmProjects\PythonProject\venv" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="print(&quot;hello&quot;)" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Basic">
+    <configuration name="Basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LandRover_Interview_Practice/Python_Testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LandRover_Interview_Practice/Python_Testing/Basic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FakeApiTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LandRover_Interview_Practice/API_Testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LandRover_Interview_Practice/API_Testing/FakeApiTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RegularEx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LandRover_Interview_Practice/Python_Testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LandRover_Interview_Practice/Python_Testing/RegularEx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="auth_post" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LandRover_Interview_Practice/API_Testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LandRover_Interview_Practice/API_Testing/auth_post.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LandRover_Interview_Practice/Selenium_Testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LandRover_Interview_Practice/Selenium_Testing/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_playwrightBasics.test_core_locators" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UdemyPlaywright/playwright_directory" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_playwrightBasics.test_core_locators&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_playwrightBasics.test_launch_browser_shortcut" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UdemyPlaywright/playwright_directory" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_playwrightBasics.test_launch_browser_shortcut&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Basic" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.RegularEx" />
+        <item itemvalue="Python.auth_post" />
+        <item itemvalue="Python.FakeApiTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cec5470b-c1b4-4d18-9e06-575df5eb9072" name="Changes" comment="" />
+      <created>1751514864497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751514864497</updated>
+      <workItem from="1751514865502" duration="1088000" />
+      <workItem from="1751516922209" duration="2587000" />
+      <workItem from="1751884732619" duration="28461000" />
+      <workItem from="1752062806948" duration="29106000" />
+      <workItem from="1752435334361" duration="32545000" />
+      <workItem from="1753270329372" duration="9772000" />
+      <workItem from="1753662625900" duration="8926000" />
+      <workItem from="1754484809169" duration="11000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test">
+      <option name="closed" value="true" />
+      <created>1757191505511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757191505511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject$oops.coverage" NAME="oops Coverage Results" MODIFIED="1752019961814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/PythonProject$interf.coverage" NAME="interf Coverage Results" MODIFIED="1752063771237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/PythonProject$abstr.coverage" NAME="abstr Coverage Results" MODIFIED="1752057113068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/PythonProject$practice.coverage" NAME="practice Coverage Results" MODIFIED="1752616504421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$RegEx_Scrubber.coverage" NAME="RegEx_Scrubber Coverage Results" MODIFIED="1753699894472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nordex_practice" />
+    <SUITE FILE_PATH="coverage/PythonProject$REST_API_Test.coverage" NAME="REST_API_Test Coverage Results" MODIFIED="1752658543464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nordex_practice" />
+    <SUITE FILE_PATH="coverage/PythonProject$inher.coverage" NAME="inher Coverage Results" MODIFIED="1753708799654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/PythonProject$.coverage" NAME=" Coverage Results" MODIFIED="1752108390845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/PythonProject$Sensor_data_validator.coverage" NAME="Sensor_data_validator Coverage Results" MODIFIED="1752675859443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nordex_practice" />
+    <SUITE FILE_PATH="coverage/PythonProject$Flaky_Test_Decorator.coverage" NAME="Flaky_Test_Decorator Coverage Results" MODIFIED="1752674284087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nordex_practice" />
+    <SUITE FILE_PATH="coverage/PythonProject$RE.coverage" NAME="RE Coverage Results" MODIFIED="1752095418383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/PythonProject$File1.coverage" NAME="File1 Coverage Results" MODIFIED="1752097421959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/PythonProject$methods.coverage" NAME="methods Coverage Results" MODIFIED="1752021976465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/PythonProject$polymor.coverage" NAME="polymor Coverage Results" MODIFIED="1752056316595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/PythonProject$file2.coverage" NAME="file2 Coverage Results" MODIFIED="1752099674739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/PythonProject$shapes.coverage" NAME="shapes Coverage Results" MODIFIED="1752440984017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
+    <SUITE FILE_PATH="coverage/PythonProject$log_file_analyser.coverage" NAME="log_file_analyser Coverage Results" MODIFIED="1752657678629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nordex_practice" />
+    <SUITE FILE_PATH="coverage/PythonProject$Test_Report_Summarizer.coverage" NAME="Test_Report_Summarizer Coverage Results" MODIFIED="1752675998037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nordex_practice" />
+    <SUITE FILE_PATH="coverage/PythonProject$chatgpt_programs.coverage" NAME="chatgpt_programs Coverage Results" MODIFIED="1752104411510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/PythonProject$IterGenDec.coverage" NAME="IterGenDec Coverage Results" MODIFIED="1752099265719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+  </component>
+</project>

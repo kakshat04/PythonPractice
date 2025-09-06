@@ -1,0 +1,4 @@
+{
+  "test_playwrightBasics.py::test_core_locators[chromium]": true,
+  "test_playwrightBasics.py::test_FirefoxBrowser": true
+}

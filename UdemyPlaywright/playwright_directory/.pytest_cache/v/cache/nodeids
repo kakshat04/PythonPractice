@@ -1,0 +1,6 @@
+[
+  "test_playwrightBasics.py::test_FirefoxBrowser",
+  "test_playwrightBasics.py::test_browser_launch",
+  "test_playwrightBasics.py::test_core_locators[chromium]",
+  "test_playwrightBasics.py::test_launch_browser_shortcut[chromium]"
+]

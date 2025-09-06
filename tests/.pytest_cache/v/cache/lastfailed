@@ -1,0 +1,7 @@
+{
+  "test_square.py::test_perimeter[5-24]": true,
+  "test_square.py::test_perimeter[3-8]": true,
+  "test_square.py::test_perimeter[4-10]": true,
+  "test_square.py::test_perimeter[5-12]": true,
+  "test_rectangle_without_class.py::test_perimited": true
+}
