@@ -96,5 +96,5 @@ def can_double_down(card_one, card_two):
         return False
 
 
-value = can_double_down('A', 'A')
+value = can_double_down('J', 'A')
 print(value)
