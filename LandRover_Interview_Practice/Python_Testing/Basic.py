@@ -62,6 +62,8 @@ print(b)
 
 t = ((1, 2), (3, 4), (5,))
 l = []
+
+
 for a in t:
     for b in a:
         l.append(b)
